@@ -1,4 +1,5 @@
 # actionSheet
+## 仿IOS actionSheet(上拉菜单)
 ## 效果图
 ![actionSheetImg](actionSheet.png)
 ## 使用方法
